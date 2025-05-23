@@ -2,7 +2,7 @@
 <h3 align="center">✨ Passionate Web Developer | JavaScript & React Enthusiast ✨</h3>
 
 <p align="center">
-  <img src="https://img.freepik.com/vector-gratis/concepto-juegos-linea_23-2148527136.jpg?semt=ais_hybrid&w=740" alt="Developer banner" width="80%" />
+  <img src="https://github.com/oliverDev3/oliverDev3/blob/main/github-header-image.png.png" alt="Developer banner" width="90%" />
 </p>
 
 ---
